@@ -1,0 +1,12 @@
+streamlit
+watchdog
+phidata
+yfinance
+langchain-nvidia-ai-endpoints
+python-dotenv
+google-generativeai
+vertexai
+groq
+openai
+notebook
+tqdm
