@@ -30,7 +30,15 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-3. Run the Streamlit App
+3. Set Environment variable
+
+```bash
+mv .envrc .env
+```
+Fill in the `.env` file with your GROQ API KEY.
+
+
+4. Run the Streamlit App
 ```bash
 streamlit run app.py
 ```
